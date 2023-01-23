@@ -1,0 +1,7 @@
+1,"Servicing relationship already exist","Relationship between the Agreement and book already exist in APAR."
+5,"Servicing relationship doesnot exist","Servicing relationship doesn't exist in APAR for the AgreementIndexId and book."
+5,"Servicing relationship already corrected","ReplacedPhysicalObjectId already corrected with the given POID in APAR."
+1,"Unauthorized Exception","Service ID used for this request doesnot have access to APAR application."
+4,"Data Chaining","Mash application didnt feed proper data."
+2,"Agent Not Found","Agent details are not available in SIP dashboard."
+3,"RPX Data Not Found","Agency Intern having issue with RPX vendor website."
